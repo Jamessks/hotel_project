@@ -1,0 +1,33 @@
+/*--------------- Roboto fonts ---------------*/
+
+@font-face {
+	font-family: 'RobotoR';
+	font-weight: 400;
+	src: url('/assets/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'RobotoL';
+	font-weight: 300;
+	src: url('/assets/fonts/Roboto/Roboto-Light.ttf');
+}
+
+@font-face {
+	font-family: 'RobotoBI';
+	font-weight: 900;
+	src: url('/assets/fonts/Roboto/Roboto-BoldItalic.ttf');
+}
+
+/*--------------- OpenSans fonts ---------------*/
+
+@font-face {
+	font-family: 'OpenSansL';
+	font-weight: 300;
+	src: url('/assets/fonts/OpenSans/OpenSans-Light.ttf');
+}
+
+@font-face {
+	font-family: 'OpenSansR';
+	font-weight: 600;
+	src: url('/assets/fonts/OpenSans/OpenSans-Regular.ttf');
+}

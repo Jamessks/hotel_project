@@ -1,0 +1,72 @@
+.list-page-wrapper-single {
+	max-width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	padding: 10px;
+}
+
+.room-heading {
+	font-family: RobotoR;
+	font-size: 20px;
+	background-color: #474e68;
+	color: white;
+	padding: 10px 5px 10px 5px;
+}
+
+.room-list {
+	display: inline-flex;
+	list-style: none;
+	width: 100%;
+}
+
+.room-photo{
+	width: 80%;
+}
+
+.room-characteristics-list {
+	display: inline-flex;
+	list-style: none;
+	width: 100%;
+	text-align: center;
+	justify-content: space-around;
+	align-content: center;
+}
+
+ul.room-list li:last-child {
+	flex-grow: 1;
+	text-align: right;
+}
+
+div.room-characteristics {
+	background-color: #474e68;
+	font-family: 'RobotoR';
+	border-style: none;
+	border-radius: 10px;
+	color: white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+li.room-characteristics-list-item {
+	min-width: 70px;
+	width: 100%;
+}
+
+div.room-characteristics-indication::after {
+	content: "";
+	display: block;
+	width: 20%;
+	border-bottom: 1px solid white;
+	margin: 0 auto;
+}
+
+section.room-description {
+	padding-left: 20px;
+	border-left: 5px solid red;
+}
+/* Fix this shit....yeah? */
+
+li.room-characteristics-list-item:not(:last-child){
+	border-right: 1px solid white;
+}
