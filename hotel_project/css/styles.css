@@ -83,6 +83,12 @@ width: 0;
 	background: linear-gradient(to right, #ffffff -40%, #666699 293%);
 }
 
+.bg-image {
+	width: 100%;
+	height: 826px;
+	object-fit: cover;
+}
+
 .heading-item a, .heading-item a:visited, .heading-item a:hover, .heading-item a:active {
 	color: inherit;
 	clear: left;
@@ -100,12 +106,6 @@ width: 0;
 	position: relative;
 	width: 100%;
 	margin:0 auto;
-}
-
-.main-section-image {
-	width: 100%;
-	height: 822px; 	/* 1080px */
-	object-fit: cover;
 }
 
 .main-query-heading {

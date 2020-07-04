@@ -1,7 +1,7 @@
 <?php include 'views/common/header.php'; ?>
 <main class="home-main-section">
 	<section>
-		<img class="main-section-image" src="assets/images/general/home-photo.jpg"/>
+		<img class="bg-image" src="assets/images/general/home-photo.jpg"/>
 		<div class="search-content">
 			<h1 class="main-query-heading">Search Hotels</h1>
 			<div class="main-query-content">

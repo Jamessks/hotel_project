@@ -1,5 +1,5 @@
 <?php include 'views/common/header.php'; ?>
-<img class="form-bg" src="<?= img_background ?>form-bg.jpg" alt="some background">
+<img class="bg-image" src="<?= img_background ?>form-bg.jpg" alt="some background">
 <section class="user-form-login">
 	<form class="font-slim" method="POST" action="api/login.php">
 		<div class="font-fat bottom-spacing-3">
