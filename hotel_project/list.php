@@ -76,16 +76,34 @@
 							<a class="font-fat transition-fade-in-vquick" type="button" name="button">Visit Room Page</a>
 						</div>
 					</div>
-					<div class="search-results-room-extra">
-						<ul>
-							<li class="room-extra field-neutral">Count of guests: 1</li>
-							<li class="room-extra">Type of room: Single Room</li>
-							<li class="room-extra field-price">
-								<div class="search-results-room-price">
-									<p>350$ per night</p>
-								</div></li>
-							</ul>
-						</div>
+					<div class="room-characteristics">
+						<ul class="room-characteristics-list">
+							<li class="room-characteristics-list-item">
+								<div class="room-characteristics-indication">
+									<span><i class="fa fa-users"></i> | 1</span>
+								</div>
+								<div class="room-characteristics-indication-desc">
+									<p>COUNT OF GUESTS</p>
+								</div>
+							</li>
+							<li class="room-characteristics-list-item">
+								<div class="room-characteristics-indication">
+									<span><i class="fa fa-bed"></i> | 2+</span>
+								</div>
+								<div class="room-characteristics-indication-desc">
+									<p>TYPE OF ROOM</p>
+								</div>
+							</li>
+							<li class="room-characteristics-list-item">
+								<div class="room-characteristics-indication">
+									<span>Per Night</span>
+								</div>
+								<div class="room-characteristics-indication-desc">
+									<p>350$</p>
+								</div>
+							</li>
+						</ul>
+					</div>
 					</div>
 				</article>
 				<article>
@@ -158,16 +176,34 @@
 									<a class="font-fat transition-fade-in-vquick" type="button" name="button">Visit Room Page</a>
 								</div>
 							</div>
-							<div class="search-results-room-extra">
-								<ul>
-									<li class="room-extra field-neutral">Count of guests: 1</li>
-									<li class="room-extra">Type of room: Single Room</li>
-									<li class="room-extra field-price">
-										<div class="search-results-room-price">
-											<p>350$ per night</p>
-										</div></li>
-									</ul>
-								</div>
+							<div class="room-characteristics">
+								<ul class="room-characteristics-list">
+									<li class="room-characteristics-list-item">
+										<div class="room-characteristics-indication">
+											<span><i class="fa fa-users"></i> | 1</span>
+										</div>
+										<div class="room-characteristics-indication-desc">
+											<p>COUNT OF GUESTS</p>
+										</div>
+									</li>
+									<li class="room-characteristics-list-item">
+										<div class="room-characteristics-indication">
+											<span><i class="fa fa-bed"></i> | 2+</span>
+										</div>
+										<div class="room-characteristics-indication-desc">
+											<p>TYPE OF ROOM</p>
+										</div>
+									</li>
+									<li class="room-characteristics-list-item">
+										<div class="room-characteristics-indication">
+											<span>Per Night</span>
+										</div>
+										<div class="room-characteristics-indication-desc">
+											<p>350$</p>
+										</div>
+									</li>
+								</ul>
+							</div>
 							</div>
 						</article>
 						<article>
@@ -190,16 +226,34 @@
 										<a class="font-fat transition-fade-in-vquick" type="button" name="button">Visit Room Page</a>
 									</div>
 								</div>
-								<div class="search-results-room-extra">
-									<ul>
-										<li class="room-extra field-neutral">Count of guests: 1</li>
-										<li class="room-extra">Type of room: Single Room</li>
-										<li class="room-extra field-price">
-											<div class="search-results-room-price">
-												<p>350$ per night</p>
-											</div></li>
-										</ul>
-									</div>
+								<div class="room-characteristics">
+									<ul class="room-characteristics-list">
+										<li class="room-characteristics-list-item">
+											<div class="room-characteristics-indication">
+												<span><i class="fa fa-users"></i> | 1</span>
+											</div>
+											<div class="room-characteristics-indication-desc">
+												<p>COUNT OF GUESTS</p>
+											</div>
+										</li>
+										<li class="room-characteristics-list-item">
+											<div class="room-characteristics-indication">
+												<span><i class="fa fa-bed"></i> | 2+</span>
+											</div>
+											<div class="room-characteristics-indication-desc">
+												<p>TYPE OF ROOM</p>
+											</div>
+										</li>
+										<li class="room-characteristics-list-item">
+											<div class="room-characteristics-indication">
+												<span>Per Night</span>
+											</div>
+											<div class="room-characteristics-indication-desc">
+												<p>350$</p>
+											</div>
+										</li>
+									</ul>
+								</div>
 								</div>
 							</article>
 						</div>

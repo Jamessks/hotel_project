@@ -42,18 +42,18 @@ div.room-characteristics {
 	background-color: #474e68;
 	font-family: 'RobotoR';
 	color: white;
-	border-style: none;
-	border-radius: 20px;
 }
 
 li.room-characteristics-list-item {
-	min-width: 70px;
+	min-width: 50px;
 	width: 100%;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	font-size: 18px;
 }
-
+div.room-characteristics-indication-desc p {
+	word-break: break-word;
+}
 div.room-characteristics-indication::after {
 	content: "";
 	display: block;
@@ -66,7 +66,6 @@ section.room-description {
 	padding-left: 20px;
 	border-left: 5px solid red;
 }
-/* Fix this shit....yeah? */
 
 li.room-characteristics-list-item:not(:last-child){
 	border-right: 1px solid white;
