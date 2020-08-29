@@ -1,0 +1,171 @@
+.font-fat {
+	font-family: 'RobotoR';
+}
+
+.font-slim {
+	font-family: 'RobotoL';
+}
+
+.font-fat-italic {
+	font-family: 'RobotoBI';
+}
+
+.font-read {
+	font-family: 'OpenSansR';
+}
+
+.font-read-thin {
+	font-family: 'OpenSansL';
+}
+
+.font-size-heading {
+	font-size: 30px;
+}
+
+.font-size-subheading {
+	font-size: 18px;
+}
+
+.font-size-small {
+	font-size: 14px;
+}
+.bottom-spacing-1 {
+	margin-bottom: 10px;
+}
+
+.bottom-spacing-2 {
+	margin-bottom: 20px;
+}
+
+.bottom-spacing-3 {
+	margin-bottom: 30px;
+}
+
+.bottom-spacing-4 {
+	margin-bottom: 40px;
+}
+
+.top-spacing-1 {
+	margin-top: 10px;
+}
+
+.top-spacing-2 {
+	margin-top: 20px;
+}
+
+.top-spacing-3 {
+	margin-top: 30px;
+}
+
+.top-spacing-4 {
+	margin-top: 40px;
+}
+
+.top-bottom-spacing-1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.top-bottom-spacing-2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.top-bottom-spacing-3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.top-bottom-spacing-4 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.y-scrollable {
+	overflow-y: scroll;
+}
+
+.border-solid {
+	border-style: solid;
+}
+
+.border-round-heavy {
+	border-radius: 50px;
+}
+
+.border-round-light {
+	border-radius: 20px;
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+.fluid-full {
+	width: 100%;
+}
+
+.fluid-half {
+	width: 50%;
+}
+
+.text-centered {
+	text-align: center;
+}
+
+.block {
+	display: block;
+}
+
+.font-bold {
+	font-weight: bold;
+}
+
+.bullet-list-none {
+	list-style: none;
+}
+
+.block {
+	display: block;
+}
+
+.hidden {
+	display: none;
+}
+
+.err-list {
+	color: red;
+}
+/*--------------------------------- GROUPS -----------------------------------*/
+
+.content-standard-1 {
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.left_border-inclined-red {
+	padding-left: 20px;
+	border-left: 5px solid red;
+}
+
+.button-type-1 {
+	background-color: #4C6EAF;
+	color: white;
+	padding: 14px 32px;
+	text-decoration: none;
+	cursor: pointer;
+	border-style: solid;
+	border-radius: 25px;
+	box-shadow: 0 2px #999;
+	font-family: 'RobotoR';
+}
+
+.button-type-1:hover {
+	background-color: #5880CC;
+}
+
+.button-type-1:active {
+	box-shadow: 0 2px #666;
+	transform: translateY(1px);
+}
